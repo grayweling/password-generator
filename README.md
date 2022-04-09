@@ -12,7 +12,7 @@ This project is a randomized password generator. It is designed to create a rand
 [Click Here](https://grayweling.github.io/password-generator/) to go to the password generator.
 
 <p>
-  <img src="./assets/images/password-generator.jpg" alt="Password generator webpage screenshot"/>
+  <img src="./assets/images/password-generator.JPG" alt="Password generator webpage screenshot"/>
 </p>
 
 ## License
